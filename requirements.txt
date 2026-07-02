@@ -1,0 +1,13 @@
+Technologies:
+
+Python 3.12+
+
+SQLite
+cryptography
+bcrypt
+argparse
+pytest
+
+cryptography
+bcrypt
+pytest
